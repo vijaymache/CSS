@@ -1,0 +1,29 @@
+ * { 
+    margin: 0; padding: 0;
+      
+     font-family: Arial, sans-serif;
+     } 
+      h1 { 
+        
+         color: #0707e9;
+          text-align: center; 
+    } 
+      .scientist {     
+     color: #680808;
+     text-align: left; 
+     
+    }  
+     #special  {
+     color: #1f3f2b; 
+    
+        }
+      h2 { 
+      color: #6e0909;
+      text-align: left;
+   
+                 }
+                  p{
+     color: #000000; 
+     padding: 10px 20px;
+      line-height: 1.6;}
+                            
